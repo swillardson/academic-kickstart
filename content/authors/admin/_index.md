@@ -1,75 +1,41 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Username (this should match the folder name)
 authors:
 - admin
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+bio: I am interested in foreign policy of security in a broad sense.  My primary research area is in the transfer of major conventional weapons.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+  - course: PhD in Political Science
+    institution: University of Iowa
+    year: 2013
+  - course: Master in Strategic Intelligence
+    institution: American Military University
+    year: 2007
+  - course: BS in Business Administration (Minor in Russian)
+    institution: Utah State University
+    year: 2005
+email: "spencer.l.willardson@gmail.com"
+interests:
+- Arms Transfers
+- Foreign Policy
+- International Security
+organizations:
+- name: Nazarbayev University
+  url: "www.nu.edu.kz"
+role: Assistant Professor
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/Willardson_SL
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  link: https://scholar.google.com/citations?user=hjRmKtUAAAAJ&hl=en
+title: Spencer L Willardson
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I earned my PhD in Political Science from the University of Iowa with major fields in International Relations and Comparative Politics and a minor field in Political Methodology in 2013. I research the foreign policy of arms with a focus on their role in shaping the relations between states. Before entering graduate school I was an enlisted soldier in the Utah Army National Guard. I was a Russian linguist and counterintelligence agent and served two combat tours in Iraq (2003-04 and 2007-08). I completed my enlisted service after 9 years and held the rank of Staff Sergeant.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I earned an Master in Stratgic Intelligence degree while working full-time as a translator for the Researve Language Support Project (RLSP) through the US Army. I was born in the small town of Ephraim, Utah and graduated from Payson High School in Payson, Utah in 1997. I was a missionary for the [Church of Jesus Christ of Latter-Day Saints](https://www.churchofjesuschrist.org/?lang=eng) in Ukraine from 1998-2000. During my service in Ukraine I lived primarily in the Donbas (Donetsk and Gorlovko) but also spent 7 months living in Zaporozhye.
