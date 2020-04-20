@@ -99,7 +99,7 @@ directions = "Office is on first floor of Block 8. Office 8.133"
 office_hours = ["Tuesday 10:30 to 12:00", "Thursday 10:30 to 12:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-# appointment_url = "https://calendly.com"
+appointment_url = "https://meet.google.com/hev-wegs-wmk"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
