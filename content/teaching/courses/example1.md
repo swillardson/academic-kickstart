@@ -1,0 +1,18 @@
+---
+date: "2019-05-05T00:00:00+01:00"
+draft: false
+linktitle: Tips 1-2
+menu:
+  courses:
+    parent: PLS365 - Civil-Military Relations
+    weight: 1
+title: Civil-Military Relations
+toc: true
+type: docs
+weight: 1
+---
+
+# PLS365 Civil-Military Relations 
+
+*This has been one of the most popular upper-level elective courses in the department since I began teaching it in Spring 2017. This course is not taught at any other university in Kazakhstan and the subject matter is nearly all new for the students.  The military is not something that the rest of the society knows much about.
+
