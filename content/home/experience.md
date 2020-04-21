@@ -30,6 +30,7 @@ date_format = "Jan 2006"
   * Research
   * Served as Department Chair of Department of Political Science and International Relations (PSIR) from August 2015-July 2017.
   * Supervising MA theses in MAPSIR program
+  * Advising undergraduate students (Won 2018 **Outstanding Mentor** Award from School of Sciences and Humanities)
   
   """
 
@@ -42,8 +43,8 @@ date_format = "Jan 2006"
   date_end = "2014-06-30"
   description = """
   Taught 4/4 course load with following courses:
-  * Intro to American Government and Nevada Constitution (2)
-  * Intro to International Relations (2)
+  * Intro to American Government and Nevada Constitution (3x)
+  * Intro to International Relations (2x)
   * International Security 
   * Political Violence and Terrorism
   * Research Methods in Political Science
