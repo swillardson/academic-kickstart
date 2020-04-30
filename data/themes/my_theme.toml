@@ -14,5 +14,5 @@ menu_text_active = "#895fb8" # A100
 menu_title = "#fff"
 
 # Home sections
-home_section_odd = "#A9C47F"
-home_section_even = "#B1B3B3"
+home_section_odd = "#efe6f7"
+home_section_even = "#ebfcfa"
