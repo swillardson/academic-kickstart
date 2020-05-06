@@ -4,7 +4,7 @@ draft: false
 lastmod: "2020-05-06T00:00:00Z"
 linktitle: Miscellaneous
 menu:
-  courses:
+  misc:
     name: Miscellaneous
     weight: 2
 summary: An eclectic collection of teaching-related pages.
