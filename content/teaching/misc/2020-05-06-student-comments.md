@@ -2,7 +2,7 @@
 draft: false
 linktitle: Student Quotes
 menu:
-  misc:
+  miscellaneous:
     parent: Miscellaneous
     weight: 1
 title: Student Quotes
