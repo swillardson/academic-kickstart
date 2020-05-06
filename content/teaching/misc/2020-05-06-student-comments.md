@@ -1,14 +1,14 @@
 ---
-title: Student Comments
-author: ''
-date: '2020-05-06'
-slug: student-comments
-categories:
-  - Teaching
-tags:
-  - Personal
-  - Teaching
-  - Students
+draft: false
+linktitle: Student Quotes
+menu:
+  misc:
+    parent: Miscellaneous
+    weight: 1
+title: Student Quotes
+toc: true
+type: docs
+weight: 1
 ---
 
 # The Big Idea
