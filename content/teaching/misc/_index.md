@@ -6,7 +6,7 @@ linktitle: Miscellaneous
 menu:
   misc:
     name: Miscellaneous
-    weight: 2
+    weight: 1
 summary: An eclectic collection of teaching-related pages.
 title: Miscellaneous
 toc: true

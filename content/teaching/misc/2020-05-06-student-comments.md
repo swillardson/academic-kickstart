@@ -11,9 +11,11 @@ type: docs
 weight: 1
 ---
 
-# The Big Idea
+**The Big Idea**
 
 I sometimes get nice notes from students. I really like it when I do, since teaching and students are the part of the job that brings me the most satisfaction. I decided that I would save a collection of the nice things students say so I have someplace to look at them when things are tough. You can take a look, too, if you are so inclined.
+
+**All Notes are unedited as they came in to me.**
 
 ## Spring 2020
 
