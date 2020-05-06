@@ -19,12 +19,17 @@ I sometimes get nice notes from students. I really like it when I do, since teac
 
 *This was the COVID-19 Semester where everything went south throughout the world. I had to move my two classes online and figure out new delivery and assessment methods. I received some nice notes*
 
-!!! note
+
+___
 
 I can confidently say (without any exaggeration) that, among all of my professors, you have made the most effort in helping us during the quarantine. Hope you're doing well.
 
+**3rd Year Student, PLS469***
+___
 
 >I can confidently say (without any exaggeration) that, among all of my professors, you have made the most effort in helping us during the quarantine. Hope you're doing well.
 >> 3rd year student PLS469
 
 
+>I also wanted to wholeheartedly thank you for the support you provided to us during this whole period which was tough for you as well. Over my 5 years at the Uni, you became my favourity professor and I regret that I got an opportunity to register for your course only this semester. But at the same time, I am so extremely happy that I eventually used this chance. Thank you for the exciting four months!
+>> 4th Year Student PLS365
