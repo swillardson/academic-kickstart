@@ -6,12 +6,12 @@ linktitle: Miscellaneous
 menu:
   misc:
     name: Miscellaneous
-    weight: 1
+    weight: 2
 summary: An eclectic collection of teaching-related pages.
 title: Miscellaneous
 toc: true
 type: docs
-weight: 1
+weight: 2
 ---
 
 In this section I have collected miscellaneous teaching-related content that is interesting to me in some way.
