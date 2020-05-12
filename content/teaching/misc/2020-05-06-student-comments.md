@@ -40,6 +40,6 @@ ___
 
 *The note below is one of the favorite notes I've gotten from a student. The student government had a "candygram" day to send a note and candy to a professor. I was surprised and happy to receive such a kind sentiment.*
 
-![Note from student.](/misc/2020-05-06-student-comments_files/noteFall19.jpg)
+![Note from student.](/img/noteFall19.jpg)
 
 **Graduate Student**
