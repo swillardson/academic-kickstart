@@ -20,7 +20,7 @@ interests:
 - International Security
 organizations:
 - name: Nazarbayev University
-  url: www.nu.edu.kz
+  url: 
 role: Assistant Professor
 social:
 - icon: envelope
@@ -35,6 +35,8 @@ social:
 title: Spencer L Willardson
 
 ---
+
+I am currently as Assistant Professor in the Department of Political Science and International Relations at [Nazarbayev University](https://ssh.nu.edu.kz/departments/department-of-political-science-and-international-relations/about/).  
 
 I earned my PhD in Political Science from the University of Iowa with major fields in International Relations and Comparative Politics and a minor field in Political Methodology in 2013. I research the foreign policy of arms with a focus on their role in shaping the relations between states. Before entering graduate school I was an enlisted soldier in the Utah Army National Guard. I was a Russian linguist and counterintelligence agent and served two combat tours in Iraq (2003-04 and 2007-08). I completed my enlisted service after 9 years and held the rank of Staff Sergeant.
 
