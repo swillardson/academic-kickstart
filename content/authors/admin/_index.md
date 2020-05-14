@@ -20,7 +20,7 @@ interests:
 - International Security
 organizations:
 - name: Nazarbayev University
-  url: "www.nu.edu.kz"
+  url: www.nu.edu.kz
 role: Assistant Professor
 social:
 - icon: envelope
