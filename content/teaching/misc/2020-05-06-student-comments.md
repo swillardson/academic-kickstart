@@ -21,6 +21,11 @@ I sometimes get nice notes from students. I really like it when I do, since teac
 
 *This was the COVID-19 Semester where everything went south throughout the world. I had to move my two classes online and figure out new delivery and assessment methods. I received some nice notes*
 
+___
+I would like to express my deep gratitude to you for amazing insights and real-life knowledge that I received from your classes throughout my years at university. I was privileged to know a professor like you. You have been an entertaining lecturer, a good listener and above all truly a mentor to us all. You are one of professors that made my experience at NU truly unforgettable and joyful. It is sad that I am not able to say all of these in-person, but I hope that in the near future I will be able to say thank you in-person.
+
+**4th Year Student, PLS469** (Email after class was over)
+___
 
 ___
 
