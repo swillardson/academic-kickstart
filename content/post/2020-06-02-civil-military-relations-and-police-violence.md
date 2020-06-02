@@ -14,7 +14,7 @@ tags:
 
 The escalation of violence in the aftermath of protests against police brutality has stirred up some feelings in me. I am on the other side of the world, in Kazakhstan, watching the US burn. What strikes me is not the images of protesters, or even rioters, but of police continuing to make the situation worse and to prove the protesters right. Police in many areas are the problem. I don't say this lightly. My older brother is a policeman. I am sure he is one of the good ones. But what I see in pictures time and time again is that for lack of training, lack of empathy, lack of professionalism, and lack of accountability, the police in many areas are simply out of control.
 
-I have been out of the army for nearly nine years. The sight of the Chairman of the Joint Chiefs walking in DC like it's a war zone and he is in charge chilled me.  I teach civil-military relations, and I am not confident that the current leadership realizes just how harmful this kind of "leadership" is to CMR and to the trust and goodwill that the military has with much of the population. I would like to share three examples from my nine years of military service that illustrate the divide between what is happening with police and military responses in many places (I'm really looking at DC now, but LA, Minneapolis, and other areas have similar problems.)
+I have been out of the army for nearly eleven[^1] years. The sight of the Chairman of the Joint Chiefs walking in DC like it's a war zone and he is in charge chilled me.  I teach civil-military relations, and I am not confident that the current leadership realizes just how harmful this kind of "leadership" is to CMR and to the trust and goodwill that the military has with much of the population. I would like to share three examples from my nine years of military service that illustrate the divide between what is happening with police and military responses in many places (I'm really looking at DC now, but LA, Minneapolis, and other areas have similar problems.)
 
 ## 2002 Salt Lake Winter Olympic Games
 
@@ -45,3 +45,10 @@ I am a small government conservative. I am socially conservative. I also am a ma
 Involving the military in any way that discusses the "kinetic environment" or "battle space" or any other military jargon will only serve to deepen divides in the country. 
 
 I wanted to share my experiences with policing in the military to show that even in the military, policing doesn't have to be violent and antagonistic.  It may have to be firm and it may be defensive, but the militarization of the police without proper training and with a shift in mindset of police departments is a very bad direction. When I see police going out of their way to make contact with those that are not directly threatening their life or the life of others, I am angry.  More angry than I've been in a long time.
+
+___
+
+I want to thank anyone who came and read this piece here because of the Twitter thread I wrote summarizing the content. 
+
+
+[^1]: My first post had this listed as nine years.  I was in for nine years and have been out nearly 11. 
