@@ -82,24 +82,24 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "spencer.l.willardson@gmail.com"
-phone = "801 609 1294"
+phone = "(936) 468-1208"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "53 Kabanbay Batyr", city = "Nur-Sultan", region = "Akmola", postcode = "010000", country = "Kazakhstan", country_code = "KZ"}
+address = {street = "Liberal Arts North, Office 136", city = "Nacogdoches", region = "TX", postcode = "75962", country = "United States", country_code = "US"}
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 # coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
 # Directions for visitors to locate you.
-directions = "Office is on first floor of Block 8. Office 8.133"
+directions = "Office is on first floor of Liberal Arts North, Office 136"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Tuesday 10:30 to 12:00", "Thursday 10:30 to 12:00"]
+office_hours = ["Monday 11:00 to 12:30", "Wednesday 11:00 to 12:30", "Friday 11:00 to 12:30"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://meet.google.com/hev-wegs-wmk"
+# appointment_url = "https://meet.google.com/hev-wegs-wmk"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
