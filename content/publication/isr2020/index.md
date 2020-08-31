@@ -5,7 +5,7 @@ authors:
 date: "2020-03-24T00:00:00Z"
 doi: "https://doi.org/10.1093/isr/viaa020"
 featured: false
-publication: '*International Studies Review*, 22(x)'
+publication: '*International Studies Review*, 22(3):718-19'
 publication_short: ""
 publication_types:
 - "2"
