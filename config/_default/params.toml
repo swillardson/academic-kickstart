@@ -96,7 +96,7 @@ directions = "Office is on first floor of Liberal Arts North, Office 136"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday 14:00 to 15:30", "Wednesday 14:00 to 15:30", "Friday 14:00 to 15:30"]
+office_hours = ["Monday 14:00 to 16:30", "Wednesday 14:00 to 16:30", "Thursday 11:00-12:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 # appointment_url = "https://meet.google.com/hev-wegs-wmk"
