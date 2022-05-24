@@ -17,13 +17,28 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Assistant Professor"
+  company = "Stephen F. Austin State University"
+  company_url = "https://www.sfasu.edu/academics/colleges/liberal-applied-arts/government/about/faculty-staff"
+  location = "Nacogdoches, TX"
+  date_start = "2020-08-01"
+  date_end = ""
+  description = """
+  
+  * 2022 *Excellence in Teaching* Award from the College of Liberal and Applied Arts.
+  *National Intelligence and Security Studies (MA) program and Political Science (Undergrad) as part of the the Department of Government.
+  
+  """
+
 [[experience]]
   title = "Assistant Professor"
   company = "Nazarbayev University"
   company_url = "www.nu.edu.kz"
   location = "Nur-Sultan, Kazakhstan"
   date_start = "2014-08-01"
-  date_end = ""
+  date_end = "2020-07-31"
   description = """
   
   * Teaching undergraduate and graduate courses in political science
