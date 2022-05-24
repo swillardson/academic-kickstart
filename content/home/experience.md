@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   description = """
   
   * 2022 *Excellence in Teaching* Award from the College of Liberal and Applied Arts.
-  *National Intelligence and Security Studies (MA) program and Political Science (Undergrad) as part of the the Department of Government.
+  * National Intelligence and Security Studies (MA) program and Political Science (Undergrad) as part of the the Department of Government.
 
  
   """
